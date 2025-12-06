@@ -3,3 +3,6 @@ Hello Git from master
 
 Second line
 lihe branch
+
+
+nihao i am lihe
